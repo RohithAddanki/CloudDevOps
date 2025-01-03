@@ -1,2 +1,2 @@
 Line 1: This is the first line.
-Line 2: This line is added by the main branch.
+Line 2: This line is added by both branches.
